@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B487E6D9-222A-49E3-BEE8-7305232B652F}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenerateWeather/ClassForResults/LocalWeatherForecast.cs">
+    <Files>
+      <File FileName="GenerateWeather/Program.cs" Line="11" Column="7" />
+      <File FileName="GenerateWeather/LibHKOSharp/weather.cs" Line="11" Column="6" />
+      <File FileName="GenerateWeather/ClassesForResults/LocalWeatherForecast.cs" Line="47" Column="1" />
+      <File FileName="GenerateWeather/LibHKOSharp/Enum.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GenerateWeather" expanded="True">
+            <Node name="GenerateWeather" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="ClassForResults" expanded="True">
+                <Node name="LocalWeatherForecast.cs" selected="True" />
+              </Node>
+              <Node name="LibHKOSharp" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GenerateWeather PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

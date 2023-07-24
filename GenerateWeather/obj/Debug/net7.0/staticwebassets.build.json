@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b2odnCp29hsUdRl6iGmfoR7Fvm6htp7ZCSU8oyj1Vpg=",
+  "Source": "GenerateWeather",
+  "BasePath": "_content/GenerateWeather",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
